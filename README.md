@@ -1,4 +1,1 @@
-# Astreval Bot
-
-Astreval's bot repository.  
-Description will come soon.
+Archivé pour conserver une certaine mémoire, ne surtout pas utiliser, non fonctionnel.
